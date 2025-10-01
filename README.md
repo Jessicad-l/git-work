@@ -27,7 +27,15 @@ En la siguiente práctica trabajaremos con documentación y el sistema de contro
 
 ### ***Objetivos***. <a name="id2"></a>
 
+Los objetivos a realizar son:
 
++ Crear un repositorio
++ Clonar el repositorio en local
++ Crear ramas y moverse entre ellas
++ Crear issues y solucionarlas
++ Modificar los archivos y subirlos
++ Hacer y revisar los pull request antes del merge
++ Arreglar conflictos entre diferentes ramas
 
 ### ***Material empleado***. <a name="id3"></a>
 
@@ -48,7 +56,7 @@ user2: ***Jessica Dóniz Linares***
 
 1. user1 creará un repositorio público llamado git-work en su cuenta de GitHub, añadiendo un README.md y una licencia MIT.
    
-Creamos el repositorio git-work desde el github con el README.md y con la licencia MIT.
+   Creamos el repositorio git-work desde el github con el README.md y con la licencia MIT.
 
 2. user1 clonará el repo y añadirá los ficheros: index.html, bootstrap.min.css y cover.css. Luego subirá los cambios al upstream. 
 
@@ -96,7 +104,7 @@ Creamos el repositorio git-work desde el github con el README.md y con la licenc
 
 
 
-16. user1 hará simplemente un commit local en main → NO HACER git push.ç
+16. user1 hará simplemente un commit local en main → NO HACER git push.
 
 
 

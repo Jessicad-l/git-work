@@ -19,21 +19,29 @@
 + [Conclusiones](#id5)
 
 
-#### ***Introducción***. <a name="id1"></a>
+### ***Introducción***. <a name="id1"></a>
 
 En la siguiente práctica trabajaremos con documentación y el sistema de control de versiones de github. </br>
 </br>El sistema de control de versiones nos permite llevar un seguimiento de los cambios realizados, no solo eso, sino que también te ofrece la posibilidad de volver a versiones anteriores. Este sistema te permite trabajar de manera simultánea con diferentes colaboradores, pudiendo contrastar las diferentes versiones de los usuarios.
 
 
-#### ***Objetivos***. <a name="id2"></a>
+### ***Objetivos***. <a name="id2"></a>
 
 
 
-#### ***Material empleado***. <a name="id3"></a>
+### ***Material empleado***. <a name="id3"></a>
 
-Enumeramos el material empleado tanto hardware como software y las conficuraciones que hacemos (configuraciones de red por ejemplo) 
+Para realizar esta actividad hemos empleado:
 
-#### ***Desarrollo***. <a name="id4"></a>
+*Hardware*
++ Ordenadores de clase
++ Ordenadores de casa
+
+*Software*
++ Github
++ Máquina virtual (Debian)
+
+### ***Desarrollo***. <a name="id4"></a>
 
 user1:***David Gutiérrez Gutiérrez*** </br>
 user2: ***Jessica Dóniz Linares***
@@ -119,6 +127,6 @@ Creamos el repositorio git-work desde el github con el README.md y con la licenc
 
 Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
 
-#### ***Conclusiones***. <a name="id5"></a>
+### ***Conclusiones***. <a name="id5"></a>
 
 En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.

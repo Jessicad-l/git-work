@@ -27,25 +27,25 @@ En la siguiente práctica trabajaremos con documentación y el sistema de contro
 
 Los objetivos a realizar son:
 
-+ Crear un repositorio
-+ Clonar el repositorio en local
-+ Crear ramas y moverse entre ellas
-+ Crear issues y solucionarlas
-+ Modificar los archivos y subirlos
-+ Hacer y revisar los pull request antes del merge
-+ Arreglar conflictos entre diferentes ramas
++ Crear un repositorio.
++ Clonar el repositorio en local.
++ Crear ramas y moverse entre ellas.
++ Crear issues y solucionarlas.
++ Modificar los archivos y subirlos.
++ Hacer y revisar los pull request antes del merge.
++ Arreglar conflictos entre diferentes ramas.
 
 ### ***Material empleado***. <a name="id3"></a>
 
 Para realizar esta actividad hemos empleado:
 
 *Hardware*
-+ Ordenadores de clase
-+ Ordenadores de casa
++ Ordenadores de clase.
++ Ordenadores de casa.
 
 *Software*
-+ Github
-+ Máquina virtual (Debian)
++ Github.
++ Máquina virtual (Debian).
 
 ### ***Desarrollo***. <a name="id4"></a>
 
@@ -54,11 +54,11 @@ Para realizar esta actividad hemos empleado:
 
 1. user1 creará un repositorio público llamado git-work en su cuenta de GitHub, añadiendo un README.md y una licencia MIT.
 
-   Creamos el repositorio git-work desde el github con el README.md y con la licencia MIT.
+   * Creamos el repositorio git-work desde el github con el README.md y con la licencia MIT.
 
 1. user1 clonará el repo y añadirá los ficheros: index.html, bootstrap.min.css y cover.css. Luego subirá los cambios al upstream. 
 
-   user1 clona el repositorio -> `git clone https://github.com/DavidGG2004/git-work.git`
+   * user1 clona el repositorio. -> `git clone https://github.com/DavidGG2004/git-work.git`.
 
 2. user2 creará un fork de git-work desde su cuenta de GitHub.
 
@@ -66,16 +66,15 @@ Para realizar esta actividad hemos empleado:
 
 3. user2 clonará su fork del repo.
 
-   user2 clona el fork del repositorio git-work -> `git clone https://github.com/Jessicad-l/git-work.git`
+   * user2 clona el fork del repositorio git-work. -> `git clone https://github.com/Jessicad-l/git-work.git`.
 
 4. user1 creará una issue con el título "Add custom text for startup contents".
 
 
-
 5. user2 creará una nueva rama custom-text y modificará el fichero index.html personalizándolo para una supuesta startup.
 
-   user2 crea la rama custom-text y se mueve hacia ella para modificar el index.html -> `git checkout -b custom-text`
-   Modifica el fichero index.html y commitea los cambios-> 
+   * user2 crea la rama custom-text y se mueve hacia ella para modificar el index.html. --> `git checkout -b custom-text`.
+   * Modifica el fichero index.html y commitea los cambios. --> 
    ```
    nano index.html
    git add index.html
@@ -85,11 +84,11 @@ Para realizar esta actividad hemos empleado:
    
 8. user2 enviará un PR a user1.
 
-Envía un pull request con los cambios realizados ->
+* Envía un pull request con los cambios realizados ->
    
 10. user1 probará el PR de user2 en su máquina (copia local) creando previamente un remoto denominado upstream, y realizará ciertos cambios en su copia local que luego deberá subir al propio PR.
 
-   user1 prueba el pull request creando upstream -> 
+   * user1 prueba el pull request creando upstream -> 
    ```
    git remote add upstream https://github.com/Jessicad-l/git-work.git
    git fetch upstream

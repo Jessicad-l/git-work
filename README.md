@@ -53,23 +53,21 @@ Para realizar esta actividad hemos empleado:
 ***user2:*** Jessica Dóniz Linares
 
 1. user1 creará un repositorio público llamado git-work en su cuenta de GitHub, añadiendo un README.md y una licencia MIT.
-
+<img src="IMG/imagen1.png"/>
    * Creamos el repositorio git-work desde el github con el README.md y con la licencia MIT.
 
 1. user1 clonará el repo y añadirá los ficheros: index.html, bootstrap.min.css y cover.css. Luego subirá los cambios al upstream. 
 
    * user1 clona el repositorio. -> `git clone https://github.com/DavidGG2004/git-work.git`.
-
-2. user2 creará un fork de git-work desde su cuenta de GitHub.
-
-
-
-3. user2 clonará su fork del repo.
+  <img src="IMG/imagen2.png"/>
+  <img src="IMG/imagen3.png"/>
+2. user2 creará un fork de git-work desde su cuenta de GitHub. user2 clonará su fork del repo.
 
    * user2 clona el fork del repositorio git-work. -> `git clone https://github.com/Jessicad-l/git-work.git`.
+  <img src="IMG/imagen4.png"/>
 
 4. user1 creará una issue con el título "Add custom text for startup contents".
-
+<img src="IMG/imagen5.png"/>
 
 5. user2 creará una nueva rama custom-text y modificará el fichero index.html personalizándolo para una supuesta startup.
 

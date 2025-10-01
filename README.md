@@ -21,8 +21,8 @@
 
 #### ***Introducción***. <a name="id1"></a>
 
-En la siguiente práctica trabajaremos con documentación y el sistema de control de versiones de github. </br>
-El sistema de control de versiones nos permite llevar un seguimiento de los cambios realizados, no solo eso, sino que también te ofrece la posibilidad de volver a versiones anteriores. Este sistema te permite trabajar de manera simultánea con diferentes colaboradores, pudiendo contrastar las diferentes versiones de los usuarios.
+``` En la siguiente práctica trabajaremos con documentación y el sistema de control de versiones de github. 
+El sistema de control de versiones nos permite llevar un seguimiento de los cambios realizados, no solo eso, sino que también te ofrece la posibilidad de volver a versiones anteriores. Este sistema te permite trabajar de manera simultánea con diferentes colaboradores, pudiendo contrastar las diferentes versiones de los usuarios.``
 
 
 #### ***Objetivos***. <a name="id2"></a>

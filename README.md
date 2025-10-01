@@ -14,7 +14,7 @@
 + [Objetivos](#id2)
 + [Material empleado](#id3)
 + [Desarrollo](#id4)
-+ [Conclusiones](#id5)
++ [Conclusión](#id5)
 
 
 ### ***Introducción***. <a name="id1"></a>
@@ -211,7 +211,7 @@ Enviamos desde github un pull request.
 <img src="IMG/imagen28.png" width="500"/>
 <img src="IMG/imagen30.png" width="500"/>
 
-### ***Conclusiones***. <a name="id5"></a>
+### ***Conclusión***. <a name="id5"></a>
 
 Hemos realizado esta práctica donde pudimos practicar con el sistema de control de versiones. Se ha creado un repositorio, ramas, issues, pull request y se han resuelto conflictos creados. <br/>
 Este proyecto sin duda nos ha ayudado a recordar el funcionamiento del sistema de control de versiones y su gran utilidad para trabajar en un proyecto de manera simultánea

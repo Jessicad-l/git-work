@@ -61,6 +61,7 @@ Para realizar esta actividad hemos empleado:
    - user1 clona el repositorio. -> `git clone https://github.com/DavidGG2004/git-work.git`.</br>
   <img src="IMG/imagen2.png" width="500"/>
   - Sube los cambios al upstream. --> </br>
+  
   ```
    git add .
    git commit -m "Add index.html, boostrap.min.css and cover.css"

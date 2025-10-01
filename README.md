@@ -213,4 +213,5 @@ Enviamos desde github un pull request.
 
 ### ***Conclusiones***. <a name="id5"></a>
 
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+Hemos realizado esta práctica donde pudimos practicar con el sistema de control de versiones. Se ha creado un repositorio, ramas, issues, pull request y se han resuelto conflictos creados. <br/>
+Este proyecto sin duda nos ha ayudado a recordar el funcionamiento del sistema de control de versiones y su gran utilidad para trabajar en un proyecto de manera simultánea
